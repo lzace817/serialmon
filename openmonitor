@@ -1,0 +1,1 @@
+picocom -l -q -b 115200 -c --imap lfcrlf --omap crlf /dev/ttyACM0
